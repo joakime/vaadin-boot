@@ -15,6 +15,7 @@ allprojects {
 
     repositories {
         mavenCentral()
+        maven(url = "https://oss.sonatype.org/content/groups/jetty-with-staging/")
     }
 }
 
